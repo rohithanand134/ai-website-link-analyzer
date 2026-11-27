@@ -1,0 +1,162 @@
+{
+  "brand": {
+    "name": "Example Domain",
+    "category": "Documentation Resource",
+    "summary": "A placeholder domain used exclusively for documentation and educational examples."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "This site serves as a non-commercial, static placeholder domain. It does not offer products, services, or business operations.",
+      "main_products_services": [],
+      "target_market": "Developers, technical writers, and educators.",
+      "competitors": [],
+      "strengths": [
+        "Well-known for documentation use cases",
+        "Safe, non-commercial environment"
+      ],
+      "opportunities": [
+        "No commercial opportunities exist for this domain as it is reserved for documentation purposes."
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "how to use example domains in documentation",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Informational",
+        "business_relevance": "Aligns with the site's primary purpose.",
+        "target_audience": "Technical writers"
+      },
+      {
+        "query": "what is example.com used for",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Informational",
+        "business_relevance": "Explains the existence of the domain.",
+        "target_audience": "General users"
+      },
+      {
+        "query": "best practices for writing technical examples",
+        "platforms": [
+          "Google",
+          "LinkedIn"
+        ],
+        "intent": "Informational",
+        "business_relevance": "Relevant to the users who visit the site.",
+        "target_audience": "Technical content creators"
+      },
+      {
+        "query": "IANA reserved domains explained",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Informational",
+        "business_relevance": "Contextualizes the usage of example.com.",
+        "target_audience": "Web developers"
+      },
+      {
+        "query": "documentation best practices",
+        "platforms": [
+          "Google",
+          "X"
+        ],
+        "intent": "Informational",
+        "business_relevance": "Broadly related to the domain's purpose.",
+        "target_audience": "Developers"
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "example domain",
+      "secondary_keywords": [
+        "documentation examples",
+        "placeholder domain"
+      ],
+      "long_tail_keywords": [
+        "how to use example domains safely",
+        "IANA reserved domains"
+      ],
+      "business_keywords": [
+        "documentation",
+        "examples"
+      ],
+      "current_title": "Example Domain",
+      "recommended_title": "Example Domain - Standard Documentation Examples",
+      "title_reason": "Adds descriptive clarity to explain the purpose of the page.",
+      "current_meta_description": null,
+      "meta_description": "Example Domain is a reserved domain for use in documentation and educational examples. Learn about its purpose and usage guidelines.",
+      "meta_description_keywords": [
+        "example domain",
+        "documentation",
+        "examples"
+      ],
+      "meta_description_reason": "Provides a concise summary to help users understand why the page exists.",
+      "supporting_content": [
+        {
+          "category": "faq",
+          "recommendation": "Create a simple FAQ section explaining standard usage.",
+          "reason": "Clarifies the non-commercial nature and proper use for new users."
+        }
+      ]
+    },
+    "top_services": [],
+    "top_services_note": "Services with supporting website excerpts: 0. Inferred entries are suggestions. Fewer than five may be available.",
+    "target_audience": {
+      "primary_audience": [
+        "Technical writers",
+        "Developers"
+      ],
+      "secondary_audience": [
+        "Students",
+        "Educators"
+      ],
+      "industries": [
+        "Information Technology",
+        "Education"
+      ],
+      "business_types": [
+        "Technical Documentation",
+        "Web Development"
+      ],
+      "customer_profiles": [
+        "Technical content creators needing neutral examples"
+      ],
+      "geographic_focus": [],
+      "customer_needs": [
+        "Educational resources",
+        "Neutral content for testing"
+      ],
+      "customer_challenges": [
+        "Finding safe, non-commercial test data"
+      ],
+      "customer_interests": [
+        "Web standards",
+        "Documentation best practices"
+      ],
+      "audience_segments": [
+        {
+          "segment_name": "Technical Writers",
+          "industry": "IT",
+          "business_type": "Content Creation",
+          "needs": [
+            "Clear examples for documentation"
+          ],
+          "relevant_services": [],
+          "marketing_recommendation": "Maintain high quality of existing documentation metadata.",
+          "evidence_status": "inferred"
+        }
+      ],
+      "evidence_status": "inferred",
+      "evidence_notes": "Target audience is inferred based on the site's explicit notice that it is for documentation purposes."
+    }
+  },
+  "success": true,
+  "website": "https://example.com/",
+  "pages_analyzed": [
+    "https://example.com/"
+  ],
+  "limitations": [
+    "Analysis uses static website content. Competitor suggestions are unverified."
+  ]
+}

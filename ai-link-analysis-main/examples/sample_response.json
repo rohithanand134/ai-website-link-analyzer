@@ -1,0 +1,173 @@
+{
+  "success": true,
+  "website": "https://example.com",
+  "brand": {
+    "name": "Riverbend IT",
+    "category": "Managed IT services",
+    "summary": "IT support for small professional offices."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "Riverbend IT provides managed IT support for small offices.",
+      "main_products_services": [
+        "Managed IT support"
+      ],
+      "target_market": "Small professional offices",
+      "competitors": [],
+      "strengths": [
+        "A clear focus on small offices"
+      ],
+      "competitive_advantages": [
+        "The site's stated small-office focus may help distinguish the service from general IT support."
+      ],
+      "opportunities": [
+        "Publish a service page outlining what monthly support includes"
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "managed IT support for small offices",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Service discovery",
+        "business_relevance": "Matches the core support offering",
+        "target_audience": "Office managers"
+      },
+      {
+        "query": "outsourced help desk for professional firms",
+        "platforms": [
+          "LinkedIn",
+          "Google"
+        ],
+        "intent": "Vendor evaluation",
+        "business_relevance": "Reaches teams considering outside support",
+        "target_audience": "Operations leads"
+      },
+      {
+        "query": "small office IT support recommendations",
+        "platforms": [
+          "Facebook"
+        ],
+        "intent": "Peer referral",
+        "business_relevance": "Matches conversations about finding IT support",
+        "target_audience": "Small business owners"
+      },
+      {
+        "query": "small office IT tips",
+        "platforms": [
+          "Instagram"
+        ],
+        "intent": "Education",
+        "business_relevance": "Connects routine office IT problems to support content",
+        "target_audience": "Office administrators"
+      },
+      {
+        "query": "managed IT support for small teams",
+        "platforms": [
+          "X"
+        ],
+        "intent": "Vendor discovery",
+        "business_relevance": "Matches discussions about outsourcing IT for small teams",
+        "target_audience": "Business owners"
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "managed IT support",
+      "secondary_keywords": [
+        "small office IT support"
+      ],
+      "long_tail_keywords": [
+        "managed IT support for professional offices"
+      ],
+      "business_keywords": [
+        "outsourced office IT"
+      ],
+      "current_title": "Riverbend IT",
+      "recommended_title": "Managed IT Support for Small Offices | Riverbend IT",
+      "title_reason": "Names the service and the customer in the search result.",
+      "current_meta_description": "Managed IT support for small professional offices.",
+      "meta_description": "Get managed IT support for your small professional office. See how Riverbend IT can help your team with everyday technical issues.",
+      "meta_description_keywords": [
+        "managed IT support",
+        "small professional office"
+      ],
+      "meta_description_reason": "Describes the service in terms a small office can recognize.",
+      "supporting_content": [
+        {
+          "category": "service_page",
+          "recommendation": "Describe typical managed support tasks on a dedicated page.",
+          "reason": "Helps buyers evaluate service coverage before calling."
+        },
+        {
+          "category": "faq",
+          "recommendation": "Explain what happens when staff submit a support request.",
+          "reason": "Answers a question buyers may have before contacting the business."
+        }
+      ]
+    },
+    "top_services": [
+      {
+        "service_name": "Managed IT support",
+        "description": "IT assistance for small professional offices.",
+        "target_industry": "Professional services",
+        "target_customer": "Small offices",
+        "main_benefit": "Gives staff a point of contact for day-to-day IT issues.",
+        "evidence_status": "verified",
+        "source_url": "https://example.com",
+        "evidence_quote": "We offer managed IT support for small professional offices."
+      }
+    ],
+    "top_services_note": "1 listed service has a supporting website excerpt. Entries labeled inferred are suggestions.",
+    "target_audience": {
+      "primary_audience": [
+        "Small professional offices"
+      ],
+      "secondary_audience": [
+        "Small businesses considering outsourced support"
+      ],
+      "industries": [
+        "Professional services"
+      ],
+      "business_types": [
+        "Small offices"
+      ],
+      "customer_profiles": [
+        "Office managers handling day-to-day operations"
+      ],
+      "geographic_focus": [],
+      "customer_needs": [
+        "A contact for staff IT issues"
+      ],
+      "customer_challenges": [
+        "Handling technical issues with limited in-house IT capacity"
+      ],
+      "customer_interests": [
+        "Outsourced help desk coverage"
+      ],
+      "audience_segments": [
+        {
+          "segment_name": "Small professional offices",
+          "industry": "Professional services",
+          "business_type": "Small office",
+          "needs": [
+            "Day-to-day support"
+          ],
+          "relevant_services": [
+            "Managed IT support"
+          ],
+          "marketing_recommendation": "Publish a checklist of common office IT requests.",
+          "evidence_status": "inferred"
+        }
+      ],
+      "evidence_status": "inferred",
+      "evidence_notes": "The source identifies small professional offices. Buyer roles and needs are marketing inferences."
+    }
+  },
+  "pages_analyzed": [
+    "https://example.com"
+  ],
+  "limitations": [
+    "Analysis uses static website content. Competitor suggestions are unverified."
+  ]
+}

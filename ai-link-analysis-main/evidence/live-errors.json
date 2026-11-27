@@ -1,0 +1,60 @@
+{
+  "commit": "709401d6e6ff81413611ff47bc7341b57191e95d",
+  "requests": [
+    {
+      "case": "missing",
+      "status": 422,
+      "response": {
+        "success": false,
+        "error": {
+          "code": "invalid_request",
+          "message": "Add the required \"url\" field with a public website URL."
+        }
+      }
+    },
+    {
+      "case": "malformed",
+      "status": 400,
+      "response": {
+        "success": false,
+        "error": {
+          "code": "invalid_url",
+          "message": "Enter a complete public URL starting with http:// or https://, such as https://example.com."
+        }
+      }
+    },
+    {
+      "case": "private_ip",
+      "status": 400,
+      "response": {
+        "success": false,
+        "error": {
+          "code": "blocked_destination",
+          "message": "Website destination must be public. Use the site's public URL instead of localhost or a private address."
+        }
+      }
+    },
+    {
+      "case": "localhost",
+      "status": 400,
+      "response": {
+        "success": false,
+        "error": {
+          "code": "blocked_destination",
+          "message": "Website destination must be public. Use the site's public URL instead of localhost or a private address."
+        }
+      }
+    },
+    {
+      "case": "missing_public_page",
+      "status": 404,
+      "response": {
+        "success": false,
+        "error": {
+          "code": "website_http_404",
+          "message": "The website page was not found."
+        }
+      }
+    }
+  ]
+}

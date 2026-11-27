@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-11-22T16:59:57+05:30",
+  "service": "https://ai-link-analysis-k804.onrender.com",
+  "public_github_commit": "709401d6e6ff81413611ff47bc7341b57191e95d",
+  "local_commit_at_capture": "69591c180857321c81b020971ae1642a94bdb63e",
+  "local_and_hosted_match": false,
+  "render_state": "success",
+  "render_deployment_id": 7977868419,
+  "routes": {
+    "/": 200,
+    "/health": 200,
+    "/docs": 200,
+    "/openapi.json": 200
+  }
+}

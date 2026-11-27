@@ -1,0 +1,100 @@
+{
+  "captured_at": "2026-11-26T23:59:46+05:30",
+  "mode": "real Wikidata category discovery and first-party HTTPS verification using one starting candidate",
+  "subject": "https://basecamp.com/",
+  "competitors": [
+    {
+      "name": "Asana",
+      "website": "https://asana.com",
+      "main_services": [
+        "project management"
+      ],
+      "target_market": "",
+      "strengths": [
+        "Highlights project management in its public material."
+      ],
+      "weaknesses": [],
+      "competitive_gap": "Both sites mention project management. The subject site mentions file sharing, which was absent from the competitor's sampled offering text. Check other pages before drawing a conclusion.",
+      "evidence_status": "verified",
+      "sources": [
+        "https://asana.com",
+        "https://www.wikidata.org/wiki/Q4468073"
+      ]
+    },
+    {
+      "name": "monday.com",
+      "website": "https://monday.com/",
+      "main_services": [
+        "project management"
+      ],
+      "target_market": "",
+      "strengths": [
+        "Highlights project management in its public material."
+      ],
+      "weaknesses": [],
+      "competitive_gap": "Both sites mention project management. The subject site mentions file sharing, which was absent from the competitor's sampled offering text. Check other pages before drawing a conclusion.",
+      "evidence_status": "verified",
+      "sources": [
+        "https://monday.com/",
+        "https://www.wikidata.org/wiki/Q65073369"
+      ]
+    },
+    {
+      "name": "ProWorkflow",
+      "website": "https://proworkflow.com/",
+      "main_services": [
+        "project management"
+      ],
+      "target_market": "",
+      "strengths": [
+        "Highlights project management in its public material."
+      ],
+      "weaknesses": [],
+      "competitive_gap": "Both sites mention project management. The subject site mentions file sharing, which was absent from the competitor's sampled offering text. Check other pages before drawing a conclusion.",
+      "evidence_status": "verified",
+      "sources": [
+        "https://proworkflow.com/",
+        "https://www.proworkflow.com",
+        "https://www.wikidata.org/wiki/Q22035462"
+      ]
+    },
+    {
+      "name": "Bubble Plan",
+      "website": "https://bubbleplan.net/",
+      "main_services": [
+        "project management"
+      ],
+      "target_market": "",
+      "strengths": [
+        "Highlights project management in its public material."
+      ],
+      "weaknesses": [],
+      "competitive_gap": "",
+      "evidence_status": "inferred",
+      "sources": [
+        "https://bubbleplan.net/",
+        "https://www.wikidata.org/wiki/Q140312631"
+      ]
+    },
+    {
+      "name": "Todoist",
+      "website": "https://www.todoist.com/",
+      "main_services": [
+        "project management"
+      ],
+      "target_market": "",
+      "strengths": [
+        "Highlights project management in its public material."
+      ],
+      "weaknesses": [],
+      "competitive_gap": "",
+      "evidence_status": "inferred",
+      "sources": [
+        "https://www.todoist.com/",
+        "https://todoist.com",
+        "https://www.wikidata.org/wiki/Q7812817"
+      ]
+    }
+  ],
+  "note": "Competitors with matching first-party evidence: 3. Inferred entries cite discovery sources. Coverage may be incomplete."
+}

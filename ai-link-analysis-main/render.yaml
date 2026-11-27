@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ai-link-analysis
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-6-luna
+      - key: COMPETITOR_RESEARCH
+        value: wikidata

@@ -1,0 +1,19 @@
+{
+  "mode": "local real HTTPS and HTML extraction without an LLM",
+  "requests": [
+    {
+      "url": "https://basecamp.com/",
+      "pages": 3,
+      "fetch_ms": 2079.31,
+      "extraction_ms": 271.99,
+      "total_ms": 2356.66
+    },
+    {
+      "url": "https://example.com/",
+      "pages": 1,
+      "fetch_ms": 87.73,
+      "extraction_ms": 1.76,
+      "total_ms": 89.8
+    }
+  ]
+}
